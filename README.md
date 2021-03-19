@@ -34,8 +34,8 @@ I am Edwin Hernandez, an undergraduate student at the [University of North Texas
 
 > 💼 Opted to Hire
 >
-> 📜 27 Public Repositories
+> 📜 6 Public Repositories
 >  
-> 🔑 20 Private Repositories  
+> 🔑 10 Private Repositories  
 
 <!--END_SECTION:table-->
