@@ -19,3 +19,23 @@ I am Edwin Hernandez, an undergraduate student at the [University of North Texas
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwinhern)
+
+<!--START_SECTION:table-->
+<details>
+
+<summary>More Stats 📊 </summary>
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data**
+
+> 💼 Opted to Hire
+>
+> 📜 27 Public Repositories
+>  
+> 🔑 20 Private Repositories  
+
+<!--END_SECTION:table-->
