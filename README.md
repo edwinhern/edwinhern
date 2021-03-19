@@ -4,3 +4,4 @@ I am Edwin Hernandez, an undergraduate student at the [University of North Texas
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwinhern16/)](https://www.linkedin.com/in/edwinhern16/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/edwinhern15/)](https://www.instagram.com/edwinhern15)
+[![Gmail Badge](https://img.shields.io/badge/-edwinhern.16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwinhern.16@gmail.com)](mailto:edwinhern.16@gmail.com)
