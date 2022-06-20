@@ -1,41 +1,55 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+Hi 👋 My name is Edwin
+======================
 
-I am Edwin Hernandez, an undergraduate student at the [University of North Texas](https://www.unt.edu/), double majoring in Computer Engineering and Mathematics. Currently, I work as an IT at [Mario Sinacola & Sons](https://www.mariosinacola.com/) designing an efficient database platform. In addition, I am a member on the board for the [HackUNT](https://unthackathon.com/), the largest Hackathon hosted in Denton.
+Full-Stack Developer
+--------------------
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwinhern16/)](https://www.linkedin.com/in/edwinhern16/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/edwinhern15/)](https://www.instagram.com/edwinhern15)
-[![Gmail Badge](https://img.shields.io/badge/-edwinhern.16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwinhern.16@gmail.com)](mailto:edwinhern.16@gmail.com)
+I am a rising senior majoring in Computer Engineering and minoring in Mathematics. My primary niche is application development. I dream of making applications that impact lives in a positive way.
 
-## ⚡ Technologies
+* 🌍  I'm based in Dallas, TX
+* 🖥️  See my portfolio at [Who am I](http://edwinhern.github.io/edwinhern/)
+* ✉️  You can contact me at [Edwinhern.16@gmail.com](mailto:Edwinhern.16@gmail.com)
+* 🚀  I'm currently working on [untStatus](http://untstatus.com)
+* 🧠  I'm learning Next.js, React, and Framer-Motion
+* 🤝  I'm open to collaborating on Websites, App Applications, and Automation projects
+* ⚡  Outside of tech, I like soccer, plating the trumpet, trying new food (Right now I really love Vietnamese food) as well as reading health and wellness books.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+### Skills
 
-![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwinhern)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-<!--START_SECTION:table-->
-<details>
 
-<summary>More Stats 📊 </summary>
+### Socials
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+<p align="left"> <a href="https://www.github.com/edwinhern" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/edwinhern16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EdwinHern15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-**🐱 My Github Data**
+### Badges
 
-> 💼 Opted to Hire
->
-> 📜 6 Public Repositories
->  
-> 🔑 10 Private Repositories  
+<b>My GitHub Stats</b>
 
-<!--END_SECTION:table-->
+<a href="http://www.github.com/edwinhern"><img src="https://github-readme-stats.vercel.app/api?username=edwinhern&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="edwinhern's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/edwinhern/untstatus-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=untstatus-next&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/edwinhern/edwinhern" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=edwinhern&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/edwinhern/Trashout" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=Trashout&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/edwinhern/todoapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=todoapp&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
