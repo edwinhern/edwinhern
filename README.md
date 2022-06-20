@@ -6,13 +6,13 @@ Full-Stack Developer
 
 I am a rising senior majoring in Computer Engineering and minoring in Mathematics. My primary niche is application development. I dream of making applications that impact lives in a positive way.
 
-* 🌍  I'm based in Dallas, TX
-* 🖥️  See my portfolio at [Who am I](http://edwinhern.github.io/edwinhern/)
-* ✉️  You can contact me at [Edwinhern.16@gmail.com](mailto:Edwinhern.16@gmail.com)
-* 🚀  I'm currently working on [untStatus](http://untstatus.com)
-* 🧠  I'm learning Next.js, React, and Framer-Motion
-* 🤝  I'm open to collaborating on Websites, App Applications, and Automation projects
-* ⚡  Outside of tech, I like soccer, plating the trumpet, trying new food (Right now I really love Vietnamese food) as well as reading health and wellness books.
+* 🌍  I'm based in Dallas, TX
+* 🖥️  See my portfolio at [Who am I](http://edwinhern.github.io/edwinhern/)
+* ✉️  You can contact me at [Edwinhern.16@gmail.com](mailto:Edwinhern.16@gmail.com)
+* 🚀  I'm currently working on [untStatus](http://untstatus.com)
+* 🧠  I'm learning Next.js, React, and Framer-Motion
+* 🤝  I'm open to collaborating on Websites, App Applications, and Automation projects
+* ⚡  Outside of tech, I like soccer, plating the trumpet, trying new food (Right now I really love Vietnamese food) as well as reading health and wellness books.
 
 ### Skills
 
@@ -35,7 +35,6 @@ I am a rising senior majoring in Computer Engineering and minoring in Mathematic
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/edwinhern" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/edwinhern16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EdwinHern15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -48,8 +47,6 @@ I am a rising senior majoring in Computer Engineering and minoring in Mathematic
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/edwinhern/untstatus-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=untstatus-next&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/edwinhern/edwinhern" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=edwinhern&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/edwinhern/untstatus-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=untstatus-next&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/edwinhern/Trashout" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=Trashout&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/edwinhern/todoapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=todoapp&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/edwinhern/todoapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=todoapp&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a>
