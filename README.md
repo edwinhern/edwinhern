@@ -35,14 +35,6 @@ I am a rising senior majoring in Computer Engineering and minoring in Mathematic
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/edwinhern"><img src="https://github-readme-stats.vercel.app/api?username=edwinhern&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="edwinhern's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/edwinhern/untstatus-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=untstatus-next&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<a href="https://github.com/edwinhern/todoapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edwinhern&repo=todoapp&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a>
