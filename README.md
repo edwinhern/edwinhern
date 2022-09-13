@@ -8,7 +8,6 @@ I am a rising senior majoring in Computer Engineering and minoring in Mathematic
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [Who am I](http://edwinhern.github.io/edwinhern/)
-* ✉️  You can contact me at [Edwinhern.16@gmail.com](mailto:Edwinhern.16@gmail.com)
 * 🚀  I'm currently working on [untStatus](http://untstatus.com)
 * 🧠  I'm learning Next.js (advanced)
 * 🤝  I'm open to collaborating on Websites, App Applications, and Automation projects
