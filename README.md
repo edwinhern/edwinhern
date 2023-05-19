@@ -14,6 +14,6 @@ I am a rising senior majoring in Computer Engineering and minoring in Mathematic
 * ⚡  Outside of tech, I like soccer, playing the trumpet, trying new food (Right now I really love Vietnamese food) as well as reading health and wellness books.
 
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b> -->
 
-<a href="http://www.github.com/edwinhern"><img src="https://github-readme-stats.vercel.app/api?username=edwinhern&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="edwinhern's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/edwinhern"><img src="https://github-readme-stats.vercel.app/api?username=edwinhern&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="edwinhern's GitHub stats" /></a> -->
