@@ -4,13 +4,13 @@ Hi 👋 My name is Edwin
 Full-Stack Developer
 --------------------
 
-I am a rising senior majoring in Computer Engineering and minoring in Mathematics. My primary niche is application development. I dream of making applications that impact lives in a positive way.
+I am a recent Computer Engineering graduate. My primary niche is application development.
 
-* 🌍  I'm based in Dallas, TX
+* 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [Who am I](http://edwinhern.github.io/edwinhern/)
 * 🚀  I'm currently working on [untStatus](http://untstatus.com)
-* 🧠  I'm learning Next.js (advanced)
-* 🤝  I'm open to collaborating on Websites, App Applications, and Automation projects
+* 🧠  I'm learning Cloud Engineering (intermidate)
+* 🤝  I'm open to collaborating on Websites, App Applications, and HomeServer projects
 * ⚡  Outside of tech, I like soccer, playing the trumpet, trying new food (Right now I really love Vietnamese food) as well as reading health and wellness books.
 
 
