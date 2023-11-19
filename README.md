@@ -1,7 +1,7 @@
 Hi 👋 My name is Edwin
 ======================
 
-Full-Stack Developer
+Software Engineer
 --------------------
 
 I am a recent Computer Engineering graduate. My primary niche is application development.
@@ -11,7 +11,6 @@ I am a recent Computer Engineering graduate. My primary niche is application dev
 * 🚀  I'm currently working on [untStatus](http://untstatus.com)
 * 🧠  I'm learning Cloud Engineering (intermidate)
 * 🤝  I'm open to collaborating on Websites, App Applications, and HomeServer projects
-* ⚡  Outside of tech, I like soccer, playing the trumpet, trying new food (Right now I really love Vietnamese food) as well as reading health and wellness books.
 
 
 <!-- <b>My GitHub Stats</b> -->
